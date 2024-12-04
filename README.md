@@ -44,9 +44,11 @@ Clone this repository:
   git clone https://github.com/yourusername/ETL-project.git
 
 Install required dependencies:
+  
   pip install requests pandas beautifulsoup4 sqlite3
 
 Run the ETL script:
+  
   python etl_process.py
 
 View the results:
