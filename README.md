@@ -41,6 +41,7 @@ View the top 5 banks by name: SELECT Bank FROM Largest_banks LIMIT 5;
 How to Run:
 
 Clone this repository:
+ 
   git clone https://github.com/yourusername/ETL-project.git
 
 Install required dependencies:
