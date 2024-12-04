@@ -53,11 +53,16 @@ Run the ETL script:
   python etl_process.py
 
 View the results:
+ 
   Open the transformed.csv file to see the transformed data.
+  
   Open the Banks.db SQLite database using a database viewer or run queries directly from the script.
 License:
+  
   This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements:
+  
   BeautifulSoup: For parsing and extracting HTML content.
+  
   SQLite: For lightweight data storage and SQL querying.
